@@ -1,0 +1,50 @@
+[
+    {
+        "login": "jeskaLopes",
+        "nome": "Jeska",
+        "sobrenome": "Lopes",
+        "foto": "https://avatars2.githubusercontent.com/u/42482159?s=400&u=f68bf6b51c0a6a3f3653dedae4296fe2e97cf7a1&v=4",
+        "email": "jessica@uhu.com",
+        "senha": "jessica1234"
+    },
+    {
+        "login": "omariosouto",
+        "nome": "Mario",
+        "sobrenome": "Souto",
+        "foto": "https://www.caelum.com.br/imagens/instrutores/fotos/mario-souto-120.jpg",
+        "email": "mario.souto@caelum.com.br",
+        "senha": "123456"
+    },
+    {
+        "login": "artdiniz",
+        "nome": "Artur",
+        "sobrenome": "Diniz",
+        "foto": "https://www.caelum.com.br/imagens/instrutores/fotos/artur-diniz-120.jpg",
+        "email": "artur.diniz@caelum.com.br",
+        "senha": "123456"
+    },
+    {
+        "login": "marcobrunobr",
+        "nome": "Marco",
+        "sobrenome": "Bruno",
+        "foto": "https://www.caelum.com.br/imagens/instrutores/fotos/marco-bruno-120.jpg",
+        "email": "marco.bruno@caelum.com.br",
+        "senha": "123456"
+    },
+    {
+        "login": "vanessametonini",
+        "nome": "Vanessa",
+        "sobrenome": "Tonini",
+        "foto": "https://www.caelum.com.br/imagens/instrutores/fotos/vanessa-tonini-120.jpg",
+        "email": "vanessa.tonini@caelum.com.br",
+        "senha": "123456"
+    },
+    {
+        "login": "daninaomi",
+        "nome": "Danielle",
+        "sobrenome": "Nakatsu",
+        "foto": "https://avatars2.githubusercontent.com/u/32687551?s=460&v=4",
+        "email": "daninaomi93@gmail.com",
+        "senha": "123456"
+    }
+]
